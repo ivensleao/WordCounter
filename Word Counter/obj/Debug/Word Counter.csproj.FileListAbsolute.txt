@@ -1,0 +1,9 @@
+c:\users\ivens.leao\documents\visual studio 2012\Projects\Word Counter\Word Counter\bin\Debug\Word Counter.exe.config
+c:\users\ivens.leao\documents\visual studio 2012\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.csprojResolveAssemblyReference.cache
+c:\users\ivens.leao\documents\visual studio 2012\Projects\Word Counter\Word Counter\obj\Debug\Word_Counter.Properties.Resources.resources
+c:\users\ivens.leao\documents\visual studio 2012\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.csproj.GenerateResource.Cache
+c:\users\ivens.leao\documents\visual studio 2012\Projects\Word Counter\Word Counter\bin\Debug\Word Counter.exe
+c:\users\ivens.leao\documents\visual studio 2012\Projects\Word Counter\Word Counter\bin\Debug\Word Counter.pdb
+c:\users\ivens.leao\documents\visual studio 2012\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.exe
+c:\users\ivens.leao\documents\visual studio 2012\Projects\Word Counter\Word Counter\obj\Debug\Word Counter.pdb
+c:\users\ivens.leao\documents\visual studio 2012\Projects\Word Counter\Word Counter\obj\Debug\Word_Counter.Form1.resources
